@@ -1,0 +1,23 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Protest+Revolution&display=swap");
+
+* {
+  font-family: "Protest Revolution", sans-serif;
+} */
+
+body {
+  padding-bottom: 200px;
+}
+
+.w1d1m_video-intro-container {
+  display: flex;
+  gap: 8px;
+}
+
+.w1d1m_anatomy-image {
+  max-width: 30%;
+}
+
+.w1d1m_flex-col {
+  display: flex;
+  flex-direction: column;
+}
